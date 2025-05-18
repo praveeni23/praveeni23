@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @praveen
-- 👀 I’m interested in software development and testing.
-- 🌱 I’m currently learning python programming
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently working as an HR 
 - 💞️ I’m looking to collaborate on projects
-- 📫 
+- 📫 i have done a project Attrition anlaysis 
 
 <!---
 praveeni23/praveeni23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
